@@ -34,7 +34,23 @@ body {
     padding:10px;
     min-height:1200px;
 }
-
+.calculadora{
+    
+    display:block;
+    margin:0 auto;
+    padding:20px;
+    background-color:#b92929;
+    width:350px;
+    height:500px;
+    border-radius: 25px;
+    margin-top: 110px;
+  }
+  .calculadora td button{
+    display:block;
+    width:70px;
+    height: 70px;
+    font-size: 25px;
+  }
   #creditos{
     display:block;
     padding-top:20px;
